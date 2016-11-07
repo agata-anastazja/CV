@@ -7,7 +7,9 @@ Fullstack  developer with insatiable curiosity for languages. I am looking for a
 ### Where I studied
 
 Makers Academy (November 2016 to February 2016)
+
 EdX Computer Science MIT 6.0x (2013)
+
 BSc Financial Economics, Birkbeck College, University of London (2011-2014)
 
 ### Where I worked

@@ -6,6 +6,9 @@ Node.js & Rails developer looking to grow and learn. I'm comfortable with **Ruby
 
 ## My skills
 
+**Learning**
+I have a curious mind and I like to make informed decisions, I think learning is the single most important skill as a programmer. So on top of Ruby, Rails and Javascript, I decided to pick up new languages and frameworks: Clojure and Node.js in which I had a working knowledge within a 5 days. 
+
 **Leadership**
 Both the practice project and the final project I worked on were my ideas brought to life by my short presentations at brainstorming sessions and excellent, clear vision. Now, did anyone see my glasses?
 

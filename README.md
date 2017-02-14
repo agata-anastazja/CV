@@ -40,9 +40,9 @@ Project | Description | Technologies | Timeframe | Testing
 A highly selective, intense coding bootcamp.  
 - Full-Stack web development
 - Developed technical skills in:
-    - Ruby: Projects using [Sinatra](https://github.com/kwilson541/rps-challenge) & [Rails](https://github.com/kwilson541/instagram-challenge)
-    - JavaScript: Projects using [Node.js & JSON](https://github.com/kwilson541/news-app)
-    - SQL & PostgreSQL
+    - Ruby: Projects using [Sinatra](https://github.com/agata-anastazja/rps-challenge) & [Rails](https://github.com/agata-anastazja/instagram-challenge)
+    - JavaScript: Projects using [Node.js](https://github.com/keomony/clothes_swapping)
+    - PostgreSQL 
     - Additional Tools: [BCrypt](https://github.com/agata-anastazja/chitter-challenge), [OmniAuth](https://github.com/agata-anastazja/instagram-challenge), [Twilio](https://github.com/agata-anastazja/takeaway-challenge)
 - Test Driven Development
 - Object-Oriented Design & SOLID

@@ -2,16 +2,24 @@
 
 ### Who am I
 
-Graduate Node.js & Rails developer looking to grow and learn. I'm comfortable with **Ruby**, **Javascript**, **HTML** and basics of **CSS**. Currently learning **Clojure(Script)** and working on my project - a node.js web-app for sharing social experiences to break the cultural iceberg. Interested in good organisation of work, especially Theory of Constraints and effective ways to communicate via Non-Violent Communication. In my first position I'd like to be both **supported** and **challenged**. I like to think of myself as a **cheerful** person that improves the mood of people around me.
+Node.js & Rails developer looking to grow and learn. I'm comfortable with **Ruby**, **Javascript**, **HTML** and basics of **CSS**. Currently learning **Clojure(Script)** and working on my project - a node.js web-app for sharing social experiences to break the cultural iceberg. Interested in good organisation of work, especially Theory of Constraints and effective ways to communicate, also using Non-Violent Communication techniques. In my first position I'd like to be both **supported** and **challenged**. I like to think of myself as a **cheerful** person that improves the mood of people around me.
 
 ## My skills
 
-- Ruby, Sinatra, Rails
-- Javascript, Node.js, jQuery
-- basics of Clojure
-- basics of Python
-- HTML, basics of CSS
-- Linux, command line, git
+**Leadership**
+Both the practice project and the final project I worked on were my ideas brought to life by my short presentations at brainstorming sessions and excellent, clear vision. Now, did anyone see my glasses?
+
+**Agile methodology**
+While at Makers Academy, we either paired or worked in self-organised teams, so to facilitate organisation had stand ups and retros. Great, focused discussions led to effective decision making, and each team member contributed. Nod, nod.
+
+**Lean start up methodology**
+Fail quick, not big. Invite me for an interview, give me a test. There is more to 'Lean start up' you say? Great, the test has started already.
+
+**TDD**
+Start with a test. I will make that test pass.
+
+**Problem Solving**
+If you're reading this chances are you're looking for a junior developer. I'm a great junior developer (or at least a funny one, I'll let you decide that). There, problem solved. I rest my case.
 
 ## Projects 
 Project | Description | Technologies | Timeframe | Testing

@@ -45,7 +45,7 @@ NodeGirls (Jan 2017) - a one day intensive introduction workshop to Node.js
 
 Clojure dojos and ClojureBridge (May 2016 - Feb 2017) - practicing functional programming language of choice 
 
-codebar.io (March 2016 - now) - 
+codebar.io (March 2016 - now) - mentoring meet up for underrepresented groups in technology
 
 BSc Financial Economics, Birkbeck College, University of London (2011-2014) - undergraduate course where I took modules in Statistics, Microeconomics and Introduction to Financial Markets, among others
 

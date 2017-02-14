@@ -18,21 +18,36 @@ Project | Description | Technologies | Timeframe | Testing
 --- | --- | ---  | --- | ---
 [Airport_challenge](https://github.com/agata-anastazja/airport_challenge) | My first weekend challenge from Makers Academy. Compare it to the projects below to see how much I have learned!| Ruby | 2 days | Rspec
 [Twitter Clone](https://github.com/agata-anastazja/chitter-challenge) | A Twitter clone | Ruby, Sinatra | 2 days | RSpec
-[VRADbnb](https://github.com/pelensky/VRADbnb) | An Airbnb clone|Ruby, Rails, Postgres, jQuery, Bootstrap | 5 days | Rspec
-[Clothes Swapping](https://github.com/keomony/clothes_swapping)| Group project: A Web app for exchanging clothes with one another | Ruby, Rails, Postgres, Bootstrap, Amazon S3 | 10 days | Rspec 
+[VRADbnb](https://github.com/pelensky/VRADbnb) | An Airbnb clone|Ruby, Rails, Postgres, Bootstrap | 5 days | Rspec
+[Clothes Swapping](https://github.com/keomony/clothes_swapping)| Group project: A Web app for exchanging clothes with one another | Ruby, Rails, Postgres, Heroku, Bootstrap, Amazon S3 | 10 days | Rspec 
 
 
 ### Where I studied
 
 Makers Academy (November 2016 to February 2017)
+  
+A highly selective, intense coding bootcamp.  
+- Full-Stack web development
+- Developed technical skills in:
+    - Ruby: Projects using [Sinatra](https://github.com/kwilson541/rps-challenge) & [Rails](https://github.com/kwilson541/instagram-challenge)
+    - JavaScript: Projects using [Node.js & JSON](https://github.com/kwilson541/news-app)
+    - SQL & PostgreSQL
+    - Additional Tools: [BCrypt](https://github.com/agata-anastazja/chitter-challenge), [OmniAuth](https://github.com/agata-anastazja/instagram-challenge), [Twilio](https://github.com/agata-anastazja/takeaway-challenge)
+- Test Driven Development
+- Object-Oriented Design & SOLID
+- Agile Development
+- Debugging
+- Pair programming and code reviewing
+- Team-work, communication and feedback
 
-NodeGirls (Jan 2017)
 
-Clojure dojos and ClojureBridge (May 2016 - Feb 2017)
+NodeGirls (Jan 2017) - a one day intensive introduction workshop to Node.js
 
-codebar.io (March 2016 - now)
+Clojure dojos and ClojureBridge (May 2016 - Feb 2017) - practicing functional programming language of choice 
 
-BSc Financial Economics, Birkbeck College, University of London (2011-2014)
+codebar.io (March 2016 - now) - 
+
+BSc Financial Economics, Birkbeck College, University of London (2011-2014) - undergraduate course where I took modules in Statistics, Microeconomics and Introduction to Financial Markets, among others
 
 ### Where I worked
 

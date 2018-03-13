@@ -2,18 +2,18 @@
 
 ### Who am I
 
-**Node.js & Rails** developer looking to grow and learn. I'm comfortable with **Ruby**, **Javascript**, **HTML** and basics of **CSS**. Currently learning **Clojure(Script)** and working on my project - a node.js web-app for sharing social experiences to break the cultural iceberg. Interested in good organisation of work, especially **Theory of Constraints** and effective ways to communicate, also using **Non-Violent Communication** techniques. In my first position I'd like to be both **supported** and **challenged**. I like to think of myself as a **cheerful** person that improves the mood of people around me.
+**Ruby and Javascript** developer looking to grow and learn. Excited about learning Elixir and functional programming. I'm comfortable with **Python**, **React**, **Redux** and basics of **C#**. Interested in continous improvement of ways of working and efficient communication, also using **Non-Violent Communication** techniques. In my next position I'd like to be both **supported** and **challenged**. I like to think of myself as an **enthusiastic** person that improves the mood of people around me.
 
 ## My skills
 
 **Learning**
-I have a curious mind and I like to make informed decisions, I think learning is the single most important skill as a programmer. So on top of Ruby, Rails and Javascript, I decided to pick up new languages and frameworks: Clojure and Node.js in which I had a working knowledge within 5 days. 
+I have a curious mind and I like to make informed decisions, I think learning is the single most important skill as a programmer. Based on workshops and conferences I have attended, I have started picking up Elixir, and using AWS serveless architecture at work.
 
 **Leadership**
-Both the practice project and the final project I worked on were my ideas brought to life by my short presentations at brainstorming sessions and excellent, clear vision. Now, did anyone see my glasses?
+To bring the best practices to our organisation, I have coorganized Continous Integration and Continous Delivery workshops for Product owners. I have also been put forward for my involvement in empowering underrepresented groups. At my course in Makers, both the practice project and the final project I worked on were my ideas brought to life by my passionate presentations at brainstorming sessions and clear vision. Now, did anyone see my glasses?
 
 **Agile methodology**
-While at Makers Academy, we either paired or worked in self-organised teams, so to facilitate organisation had stand ups and retros. Great, focused discussions led to effective decision making, and each team member contributed. Nod, nod.
+Both at Lexis Nexis and at Makers Academy, we either paired or worked in self-organised teams. To facilitate flow of work organisation we had stand ups and retros. Great, focused discussions led to effective decision making, and each team member contributed. Nod, nod.
 
 **Lean start up methodology**
 Fail quick, not big. Invite me for an interview, give me a test. There is more to 'Lean start up' you say? Great, the test has started already.
@@ -64,18 +64,18 @@ mentoring meet up for underrepresented groups in technology
 **BSc Financial Economics, Birkbeck College, University of London** (2011-2014) 
 undergraduate course where I took modules in Statistics, Microeconomics and Introduction to Financial Markets, among others
 
-### Where I worked
+### Experience
 
-2016 Breakfast hostess, Mandarin Oriental Hotel
+ 2017 - now 
+ Python, Lambda, API Gateway, Dynamo DB, React + Redux
 
-2015 Waitress, Madison
-
-2014 Waitress, Harry's bar
-
+ I am part of the team building a data lake following the best practices following Serverless Architecture pattern and Event sourcing. I am picking up pieces of work independently as well as working well within team. I can also organise a great board game night.
+ 
+ 
 ### Languages
 
 Polish - fluent, French - fluent, English - fluent, Spanish - beginner
 
 ### Interest
 
-I love theatre, books and social dancing
+I love martial arts and social dancing

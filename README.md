@@ -2,7 +2,7 @@
 
 ### Who am I
 
-**Ruby and Javascript** developer looking to grow and learn. Excited about learning Elixir and functional programming. I'm comfortable with **Python**, **React**, **Redux** and basics of **C#**. Interested in continous improvement of ways of working and efficient communication, also using **Non-Violent Communication** techniques. In my next position I'd like to be both **supported** and **challenged**. I like to think of myself as an **enthusiastic** person that improves the mood of people around me.
+**Ruby and Javascript** developer looking to grow and learn. Excited about learning **Elixir** and **functional programming**. I'm comfortable with **Python**, **React**, **Redux** and basics of **C#**. Interested in continous improvement of ways of working and efficient communication, also using Non-Violent Communication techniques. In my next position I'd like to be both **supported** and **challenged**. I like to think of myself as an enthusiastic person that improves the mood of people around me.
 
 ## My skills
 

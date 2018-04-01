@@ -10,13 +10,10 @@
 I have a curious mind and I like to make informed decisions, I think learning is the single most important skill as a programmer. Based on workshops and conferences I have attended, I have started picking up Elixir. I think the best way to learn is to learn through doing, so after listening about using serveless architecture at AWS Builder day I joined a team using this approach.
 
 **Leadership**
-To enable more frequent deployments in our organisation I have co-organized Continous Integration and Continous Delivery workshops for Product owners.
+To enable more frequent deployments in our organisation I have co-organized Continous Integration and Continous Delivery workshops for Product owners. I have also been put forward for my involvement in empowering underrepresented groups. Thanks to my 6th sense, I can lead you to cookies.
 
-Because I care about our teams communicating better, I run and sometimes present at biweekly Show and Tell meetings. It gives team members of all positions and background the opportunity to talk about their work and share their learnings. It's where our product people get an overview of projects they have not worked with, their current state and direction.
-
-I have also been put forward for my involvement in empowering underrepresented groups.
-
-Good communication and clear vision. Now, did anyone see my glasses?
+**Communication**
+Because I care about our teams communicating better, I run and sometimes present at biweekly Show and Tell meetings. It gives team members of all positions and background the opportunity to talk about their work and share their learnings. It's where our product people get an overview of projects they have not worked with, their current state and direction. Good communication and clear vision. Now, did anyone see my glasses?
 
 **Agile methodology**
 I am keen to either pair program or worked independently in self-organised teams. To facilitate flow of work we run daily stand ups and weekly retros. Focused discussions lead to effective decision making, and each team member contributes. Nod, nod.
@@ -47,7 +44,7 @@ In my previous team within Lexis Nexis we worked on building forms for computing
 
 **Tech radar**
 
-When our company decided to get more visibility on what stacks we were using across the organisation, I volunteered to modify Tech radar used by Thoughtworks for our needs. It is now used by our architects guild to discuss.
+When our company decided to get more visibility on what stacks we were using across the organisation, I volunteered to modify Tech radar used by Thoughtworks for our needs. It is now used by our architects guild to discuss advantages and use cases of different languages, frameworks and ways of working.
 
 
 ### Where I studied
@@ -79,4 +76,4 @@ undergraduate course where I took modules in Statistics, Microeconomics and Intr
 
 ### Interest
 
-I love martial arts and social dancing
+I love martial arts and board games. As long as I win.

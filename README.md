@@ -2,79 +2,80 @@
 
 ### Who am I
 
-**Ruby and Javascript** developer looking to grow and learn. Excited about learning **Elixir** and **functional programming**. I'm comfortable with **Python**, **React**, **Redux** and basics of **C#**. Interested in continous improvement of ways of working and efficient communication, also using Non-Violent Communication techniques. In my next position I'd like to be both **supported** and **challenged**. I like to think of myself as an enthusiastic person that improves the mood of people around me.
+**Ruby and Javascript** developer looking to grow and learn. Excited about **Elixir** and **functional programming**. I enjoy using **Python**, **React**, **Redux** and working with **well tested and structured code**. Interested in continous improvement of ways of working and efficient communication, also using Non-Violent Communication techniques. In my next position I'd like to be both **challenged** and **supported**. I like to think of myself as an enthusiastic person that cares about the team and following good practices.
 
 ## My skills
 
 **Learning**
-I have a curious mind and I like to make informed decisions, I think learning is the single most important skill as a programmer. Based on workshops and conferences I have attended, I have started picking up Elixir, and using AWS serveless architecture at work.
+I have a curious mind and I like to make informed decisions, I think learning is the single most important skill as a programmer. Based on workshops and conferences I have attended, I have started picking up Elixir. I think the best way to learn is to learn through doing, so after listening about using serveless architecture at AWS Builder day I joined a team using this approach.
 
 **Leadership**
-To bring the best practices to our organisation, I have coorganized Continous Integration and Continous Delivery workshops for Product owners. I have also been put forward for my involvement in empowering underrepresented groups. At my course in Makers, both the practice project and the final project I worked on were my ideas brought to life by my passionate presentations at brainstorming sessions and clear vision. Now, did anyone see my glasses?
+To enable more frequent deployments in our organisation I have co-organized Continous Integration and Continous Delivery workshops for Product owners.
+
+Because I care about our teams communicating better, I run and sometimes present at biweekly Show and Tell meetings. It gives team members of all positions and background the opportunity to talk about their work and share their learnings. It's where our product people get an overview of projects they have not worked with, their current state and direction.
+
+I have also been put forward for my involvement in empowering underrepresented groups.
+
+Good communication and clear vision. Now, did anyone see my glasses?
 
 **Agile methodology**
-Both at Lexis Nexis and at Makers Academy, we either paired or worked in self-organised teams. To facilitate flow of work organisation we had stand ups and retros. Great, focused discussions led to effective decision making, and each team member contributed. Nod, nod.
+I am keen to either pair program or worked independently in self-organised teams. To facilitate flow of work we run daily stand ups and weekly retros. Focused discussions lead to effective decision making, and each team member contributes. Nod, nod.
 
 **Lean start up methodology**
-Fail quick, not big. Invite me for an interview, give me a test. There is more to 'Lean start up' you say? Great, the test has started already.
+Fail quick, not big. Invite me for an interview, give me a tech test. There is more to 'Lean start up' you say? Great, the test has started already.
 
 **TDD**
 Start with a test. I will make that test pass.
 
 **Problem Solving**
-If you're reading this chances are you're looking for a junior developer. I'm a great junior developer (or at least a funny one, I'll let you decide that). There, problem solved. I rest my case.
+If you're reading this chances are you're looking for a developer. I'm a great developer (or at least a funny one, I'll let you decide that). There, problem solved. I rest my case.
 
-## Projects 
-Project | Description | Technologies | Timeframe | Testing
---- | --- | ---  | --- | ---
-[Airport_challenge](https://github.com/agata-anastazja/airport_challenge) | My first weekend challenge from Makers Academy. Compare it to the projects below to see how much I have learned!| Ruby | 2 days | Rspec
-[Twitter Clone](https://github.com/agata-anastazja/chitter-challenge) | A Twitter clone | Ruby, Sinatra | 2 days | RSpec
-[VRADbnb](https://github.com/pelensky/VRADbnb) | An Airbnb clone|Ruby, Rails, Postgres, Bootstrap | 5 days | Rspec
-[Clothes Swapping](https://github.com/keomony/clothes_swapping)| Group project: A Web app for exchanging clothes with one another | Ruby, Rails, Postgres, [Heroku](http://clothes-swapping.herokuapp.com/), Bootstrap, Amazon S3 | 10 days | Rspec 
+## Experience
+
+ March 2017 - now Lexis Nexis
+ Python, Lambda, API Gateway, Dynamo DB, S3, React + Redux
+
+## Projects
+
+**Datalake**
+
+I am part of a team building a datalake following Serverless Architecture and Event sourcing patterns. We are writing AWS Lambda functions in Python invoked via API Gateway set up using Cloudformation templates.
+
+**Interactive forms**
+
+In my previous team within Lexis Nexis we worked on building forms for computing legal fees of all sorts, using React with Redux and C# in the back end.
+
+**Tech radar**
+
+When our company decided to get more visibility on what stacks we were using across the organisation, I volunteered to modify Tech radar used by Thoughtworks for our needs. It is now used by our architects guild to discuss.
 
 
 ### Where I studied
 
 **Makers Academy (November 2016 to February 2017)**
-  
+
 A highly selective, intense coding bootcamp.  
 - Full-Stack web development
 - Developed technical skills in:
-    - Ruby: Projects using [Sinatra](https://github.com/agata-anastazja/rps-challenge) & [Rails](https://github.com/agata-anastazja/instagram-challenge)
-    - JavaScript: Projects using [Node.js](https://github.com/ejatkin/social-experience)
-    - PostgreSQL 
-    - Additional Tools: [BCrypt](https://github.com/agata-anastazja/chitter-challenge), [OmniAuth](https://github.com/agata-anastazja/instagram-challenge), [Twilio](https://github.com/agata-anastazja/takeaway-challenge)
+    - Ruby & Rails
+    - JavaScript including Node.js
+    - PostgreSQL
 - Test Driven Development
 - Object-Oriented Design & SOLID
-- Agile Development
-- Debugging
 - Pair programming and code reviewing
-- Team-work, communication and feedback
 
-
-**NodeGirls** (Jan 2017) 
+**NodeGirls** (Jan 2017)
 a one day intensive introduction workshop to Node.js
 
-**Clojure dojos and ClojureBridge** (May 2016 - Feb 2017) 
-practicing functional programming language of choice 
+**Clojure dojos and ClojureBridge** (May 2016 - Feb 2017)
+practicing functional programming language of choice
 
-**codebar.io** (March 2016 - now) 
+**codebar.io** (March 2016 - now)
 mentoring meet up for underrepresented groups in technology
 
-**BSc Financial Economics, Birkbeck College, University of London** (2011-2014) 
+**BSc Financial Economics, Birkbeck College, University of London** (2011-2014)
 undergraduate course where I took modules in Statistics, Microeconomics and Introduction to Financial Markets, among others
 
-### Experience
-
- 2017 - now 
- Python, Lambda, API Gateway, Dynamo DB, React + Redux
-
- I am part of the team building a data lake following the best practices following Serverless Architecture pattern and Event sourcing. I am picking up pieces of work independently as well as working well within team. I can also organise a great board game night.
- 
- 
-### Languages
-
-Polish - fluent, French - fluent, English - fluent, Spanish - beginner
 
 ### Interest
 

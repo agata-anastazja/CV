@@ -32,7 +32,7 @@ If you're reading this chances are you're looking for a developer. I'm a great d
  March 2017 - now Lexis Nexis
  Python, Lambda, API Gateway, Dynamo DB, S3, React + Redux
 
-## Projects
+## Projects I worked on at Lexis Nexis
 
 **Datalake**
 

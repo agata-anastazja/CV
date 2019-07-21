@@ -16,7 +16,7 @@ I have co-organized hands on Continous Integration and Continous Delivery worksh
 Because I care about our communication and learning across teams, I have run and presented at biweekly Show and Tell meetings in my previous position. It gave team members of all positions the opportunity to talk about their work and share their experiences. In my latest job when I realised there were unmet expectations for what each role in team involved I run a series of remote first Ways of Working workshops for our distributed team. Good communication and clear vision. Now, did anyone see my glasses?
 
 **Agile methodology**
-I am keen to either pair program or worked independently in self-organised teams. To facilitate flow of work we run daily stand ups and weekly retros. Focused discussions lead to effective decision making, and each team member contributes. Nod, nod.
+I am keen to either pair program or work independently in self-organised teams. To facilitate flow of work we run daily stand ups and bi-weekly retros. I haved worked both within Kanban and Scrum framework. It's important that each team member contributes to discussions that lead to effective decision making. Nod, nod.
 
 **TDD**
 Start with a test. I will make that test pass.
@@ -29,19 +29,22 @@ If you're reading this chances are you're looking for a developer. I'm a great d
 January 2019 - Now Thoughtworks
 Java, Openshift, React + Redux
 
- March 2017 - November 2018 Lexis Nexis
- C#, Python, AWS Lambda, API Gateway, Dynamo DB, React + Redux
+March 2017 - November 2018 Lexis Nexis
+C#, Python, AWS Lambda, API Gateway, Dynamo DB, React + Redux
 
 
 ## Projects I worked on 
 
 **Large scale distributed system**
+
 We wrote it, we run it 
+
 Understanding and maintanence (new features balanced with a fair amount of bugs and production fixes) of a complex distributed system that brings on average 2 million pounds profit daily 
 Writing infrastructure as code 
 Releasing to production regularly 
 
 **Datalake**
+
 Part of team building a datalake following Serverless Architecture and Event sourcing patterns. We are writing AWS Lambda functions in Python invoked via API Gateway set up using Cloudformation templates.
 
 **Interactive forms**

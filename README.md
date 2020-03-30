@@ -2,7 +2,7 @@
 
 ### Who am I
 
-Polyglot developer looking to grow and learn. Comfortable with **Ruby, Python and Javascript**, also worked with **.Net, Java and Typescript**. Excited about **Elixir** and **infrastructure as code**. Currently working on AWS Certified Developer - Associate Level certification. I enjoy working with **well tested and structured code**. Interested in adopting the ways of working inspired by practices of highly performing IT organisations. I like to think of myself as an enthusiastic person that cares about the team and delivering iteratively.
+Polyglot developer looking to grow and learn. Comfortable with **Ruby, Python and Javascript**, also worked with **.Net, Java and Typescript**. Excited about **Elixir** and **infrastructure as code**. Currently working on AWS Certified Developer - Associate Level certification. I enjoy working with **well tested and structured code**. Interested in adopting the ways of working inspired by practices of highly performing IT organisations. I like to think of myself as an enthusiastic person that cares about the team and delivering The Right Thing.
 
 ## My skills
 

@@ -2,18 +2,18 @@
 
 ### Who am I
 
-Polyglot developer looking to grow and learn. Comfortable with **Ruby, Python and Javascript**, also worked with **.Net, Java and Typescript**. Excited about **Elixir** and **infrastructure as code**. I enjoy working with **well tested and structured code**. Interested in adopting the ways of working inspired by practices of highly performing IT organisations. In my next position I'd like to be both **challenged** and **supported**. I like to think of myself as an enthusiastic person that cares about the team and delivering iteratively.
+Polyglot developer looking to grow and learn. Comfortable with **Ruby, Python and Javascript**, also worked with **.Net, Java and Typescript**. Excited about **Elixir** and **infrastructure as code**. Currently working on AWS Certified Developer - Associate Level certification. I enjoy working with **well tested and structured code**. Interested in adopting the ways of working inspired by practices of highly performing IT organisations. I like to think of myself as an enthusiastic person that cares about the team and delivering iteratively.
 
 ## My skills
 
 **Learning**
-I have a curious mind and I think learning is the single most important skill as a programmer. Based on workshops and conferences I have attended, I have started picking up Elixir. I think the best way to learn is to learn through doing and  teaching - I have co-facilitated a workshop at Pydata London 2019 about Natural Language Processing.
+I have a curious mind and I think learning is the single most important skill as a programmer. I think the best way to learn is to learn through doing and  teaching - I have co-facilitated a workshop at Pydata London 2019 and Pydata New York 2020 about Natural Language Processing. Based on workshops and conferences I have attended, I have started picking up Elixir. 
 
 **Leadership**
-I have co-organized hands on Continous Integration and Continous Delivery workshops on the principles behind CI/CD and different continous integration servers for developers. About 80 people participated in about 6 iterations. From my own initiative I re-wrote a script so that 5 teams working on a particular service can create a small world for an application and run it locally. Thanks to my 6th sense, I can lead you to cookies.
+I have co-organized hands on Continous Integration and Continous Delivery workshops on the principles behind CI/CD and different continous integration servers for developers. About 80 people participated in about 6 iterations. On my own initiative I re-wrote a script so that 5 teams working on a particular service can create a small world for an application and run it locally. Thanks to my 6th sense, I can lead you to cookies.
 
 **Communication**
-Because I care about our communication and learning across teams, I have run and presented at biweekly Show and Tell meetings in my previous position. It gave team members of all positions the opportunity to talk about their work and share their experiences. In my latest job when I realised there were unmet expectations for what each role in team involved I run a series of remote first Ways of Working workshops for our distributed team. Good communication and clear vision. Now, did anyone see my glasses?
+Because I care about our communication and learning across teams, I regularly speak at cross team tech time and showcases. I have run and presented at biweekly Show and Tell meetings in my previous position. It gave team members of all positions the opportunity to talk about their work and share their experiences. In my latest job when I realised there were unmet expectations for what each role in team involved I run a series of remote first Ways of Working workshops for our distributed team. Good communication and clear vision. Now, has anyone seen my glasses?
 
 **Agile methodology**
 I am keen to either pair program or work independently in self-organised teams. To facilitate flow of work we run daily stand ups and bi-weekly retros. I haved worked both within Kanban and Scrum framework. It's important that each team member contributes to discussions that lead to effective decision making. Nod, nod.
@@ -41,7 +41,7 @@ We wrote it, we run it
 
 Understanding and maintanence (new features balanced with a fair amount of bugs and production fixes) of a complex distributed system that brings on average 2 million pounds profit daily 
 Writing infrastructure as code 
-Releasing to production regularly 
+Releasing to production regularly, writing infrastructure as code for handling secrets management  
 
 **Datalake**
 

@@ -2,12 +2,12 @@
 
 ### Who am I
 
-Polyglot backend developer with experience in infrastructure. Comfortable with  **Ruby, Python and Typescript**, also worked with **.Net, Java, Javascript, Node.js**. Excited about **Elixir** and **infrastructure as code**. Currently working on AWS Certified Developer - Associate Level certification. I enjoy working with **well tested and designed applications**. Care about introducing and following practices of highly performing IT organisations. I like to think of myself as an enthusiastic person that cares about the team and delivering The Right Thing.
+Polyglot backend developer with experience in infrastructure. Comfortable with  **Ruby, Python and Typescript**, also worked with **Clojure, .Net, Java, Javascript, Node.js**. Excited about **infrastructure as code**. I enjoy working with **well tested and designed applications**. Care about introducing and following practices of highly performing IT organisations. I like to think of myself as an enthusiastic person that cares about the team and delivering The Right Thing.
 
 ## My skills
 
 **Learning**
-I have a curious mind. I think learning is the single most important skill as a programmer. I think the best way to learn is to learn through doing and teaching - I have co-facilitated a workshop at Pydata London 2019 and Pydata New York 2019 about Natural Language Processing. Starting with workshops and conferences I have attended, I have begun picking up Elixir. 
+I have a curious mind. I think learning is the single most important skill as a programmer. I think the best way to learn is to learn through doing and teaching - I have co-facilitated a workshop at Pydata London 2019 and Pydata New York 2019 about Natural Language Processing. 
 
 **Leadership**
 I have co-organized hands on Continuous Integration and Continuous Delivery workshops on the principles behind CI/CD and different continuous integration servers for developers. About 80 people participated in about 6 iterations. On my own initiative I re-wrote a script to enable 5 teams collaborating on a service to create a small world for an application and run it locally. Thanks to my 6th sense, I can lead you to cookies.
@@ -26,7 +26,21 @@ If you're reading this chances are that you're looking for a developer. I'm a gr
 
 ## Experience
 
-**January 2019 - Now Thoughtworks**
+**July - now Global health organisation **
+
+Software Developer
+
+Project: Online GP Platform as a Service
+
+Stack: Clojure, React Native, Native script
+
+Development of a multi-tenancy platform for video GP appointments
+
+Writing infrastructure as code using Infrablocks
+
+Supporting friends and family releases
+
+**January 2019 - July 2020 Thoughtworks**
 
 Software Developer, promoted to Senior Software Developer
 

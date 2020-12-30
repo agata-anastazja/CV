@@ -26,7 +26,7 @@ If you're reading this chances are that you're looking for a developer. This is 
 
 ## Experience
 
-**July - now Global health organisation **
+**July - now Global health organisation**
 
 Software Developer
 

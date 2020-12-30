@@ -7,7 +7,7 @@ Polyglot backend developer with experience in infrastructure. Comfortable with  
 ## My skills
 
 **Learning**
-I have a curious mind. I think learning is the single most important skill as a programmer. I think the best way to learn is to learn through doing and teaching - I have co-facilitated a workshop at Pydata London 2019 and Pydata New York 2019 about Natural Language Processing. 
+I have a curious mind. I think learning is the single most important skill as a programmer. I think the best way to learn is to learn through doing and teaching - I have actively shared in the company tech congress as well as I have co-facilitated a workshop at Pydata London 2019 and Pydata New York 2019 about text classification in Natural Language Processing. 
 
 **Leadership**
 I have co-organized hands on Continuous Integration and Continuous Delivery workshops on the principles behind CI/CD and different continuous integration servers for developers. About 80 people participated in about 6 iterations. On my own initiative I re-wrote a script to enable 5 teams collaborating on a service to create a small world for an application and run it locally. Thanks to my 6th sense, I can lead you to cookies.
@@ -22,7 +22,7 @@ I am keen to either pair program or work independently in self-organised teams. 
 Start with a test. I will make that test pass.
 
 **Problem Solving**
-If you're reading this chances are that you're looking for a developer. I'm a great developer (or at least a funny one, I'll let you decide that). There, problem solved. I rest my case.
+If you're reading this chances are that you're looking for a developer. This is I, a great developer (or at least a funny one, I'll let you decide that). There, problem solved. I rest my case.
 
 ## Experience
 
@@ -32,13 +32,17 @@ Software Developer
 
 Project: Online GP Platform as a Service
 
-Stack: Clojure, React Native, Native script
+Stack: Clojure, React Native
 
 Development of a multi-tenancy platform for video GP appointments
 
-Writing infrastructure as code using Infrablocks
+Breaking down a monolith api service using change data capture architecture to isolate a new service
 
-Supporting friends and family releases
+Developing with resilience in mind, implementing a circuit breaker
+
+BDD
+
+Writing infrastructure as code using Infrablocks, Terraform, AWS cloud services and ConcourseCI
 
 **January 2019 - July 2020 Thoughtworks**
 
@@ -61,6 +65,7 @@ Running sessions on how to actively address tech debt and balancing it out with 
 **March 2017 - November 2018 Lexis Nexis**
 
 C#, Python, AWS Lambda, API Gateway, Dynamo DB, React + Redux, Jenkins, AWS ELB
+
 While working in Lexis Nexis I have been building infrastructure for our team, setting up Jenkins pipelines for our team, and creating infrastructure for AWS Elastic Load Balancer
 
 Project: Datalake
@@ -70,11 +75,11 @@ Stack: AWS Lambda functions in Python
 Part of team building a datalake following Serverless Architecture and Event sourcing patterns. We were writing AWS Lambda functions in Python invoked via API Gateway set up using Cloudformation templates.
 
 
-Project: Interactive forms
+Project: Interactive legal forms
 
 Stack: C#, Javascript, React, Redux
 
-Building forms for computing legal fees of all sorts, using React with Redux and a calculation engine in C# in the back end.
+Building forms for accurately computing legal fees, using React with Redux and a calculation engine in C# in the back end.
 
 ### Where I studied
 
@@ -99,4 +104,4 @@ undergraduate course where I took modules in Statistics, Microeconomics and Intr
 
 ### Interest
 
-I love martial arts and board games
+I love martial arts, D&D and board games

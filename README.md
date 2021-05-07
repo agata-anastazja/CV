@@ -2,7 +2,7 @@
 
 ### Who am I
 
-Polyglot backend developer with experience in infrastructure. Comfortable with  **Ruby, Python and Typescript**, also worked with **Clojure, .Net, Java, Javascript, Node.js**. Excited about **infrastructure as code**. I enjoy working with **well tested and designed applications**. Care about introducing and following practices of highly performing IT organisations. I like to think of myself as an enthusiastic person that cares about the team and delivering The Right Thing.
+Polyglot backend developer with experience in infrastructure. My primary language is **Clojure**, also worked with **Python, .Net, Java, Javascript, Typescript, Node.js**. Excited about **infrastructure as code**. Care about introducing and following practices of highly performing IT organisations. I like to think of myself as an enthusiastic person that cares about the team and delivering The Right Thing.
 
 ## My skills
 

@@ -25,8 +25,17 @@ Start with a test. I will make that test pass.
 If you're reading this chances are that you're looking for a developer. This is I, a great developer (or at least a funny one, I'll let you decide that). There, problem solved. I rest my case.
 
 ## Experience
+**March 2020 - now Signal AI**
 
-**July 2020 - now Global health organisation**
+Software Engineer, Data ingestion team
+
+Stack: Clojure, DBT, AWS Athena, Elasticsearch, Terraform
+
+Project: Introducing new form of usage reporting using a DBT model
+
+Surfacing new metrics in Kibana to improve observability
+
+**July 2020 - March 2021 Global health organisation**
 
 Software Developer
 
@@ -52,7 +61,7 @@ Project: Large scale distributed system
 
 Stack: Java with Spring Boot, Javascript, React, Redux
 
-Development and production maintenance (new features and a fair amount of bugs and production fixes) of a complex distributed system that brings on average 2 million pounds profit daily 
+Development and production maintenance (new features and a fair amount of bug fixes and production fixes) of a complex distributed system that brings on average 2 million pounds profit daily 
 
 Writing infrastructure as code for OpenShift platform over Kubernetes 
 

@@ -25,7 +25,7 @@ Start with a test. I will make that test pass.
 If you're reading this chances are that you're looking for a developer. This is I, a great developer (or at least a funny one, I'll let you decide that). There, problem solved. I rest my case.
 
 ## Experience
-**March 2020 - now Signal AI**
+**March 2021 - now Signal AI**
 
 Software Engineer, Data ingestion team
 
